@@ -45,3 +45,22 @@ alias home="ssh home"
 alias unix4="ssh unix4"
 alias vogon="ssh vogon"
 alias webhost="ftp -p chrisopperwall.com"
+
+# The Law for the Wolves
+
+echo "   
+   \"NOW this is the law of the jungle, 
+   as old and as true as the sky,
+
+   And the wolf that shall keep it may prosper, 
+   but the wolf that shall break it must die.
+ 
+   As the creeper that girdles the tree trunk, 
+   the law runneth forward and back;
+
+   For the strength of the pack is the wolf, 
+   and the strength of the wolf is the pack...\"
+
+   -Rudyard Kipling
+
+"
