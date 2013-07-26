@@ -4,6 +4,7 @@ set nu
 
 set tabstop=3 shiftwidth=3 expandtab
 
+inoremap jk     <ESC>
 inoremap {      {}<Left>
 inoremap {<CR>  {<CR>}<Esc>O<TAB>
 inoremap {{     {
