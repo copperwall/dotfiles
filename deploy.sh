@@ -7,9 +7,9 @@ echo "Deploying..."
 
 cp -v .Xdefaults $HOME
 
-cp .zshrc $HOME
+cp -v .zshrc $HOME
 
-cp vim/.vimrc $HOME
+cp -v vim/.vimrc $HOME
 
 cp -r vim/.vim $HOME
 
