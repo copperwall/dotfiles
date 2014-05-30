@@ -40,11 +40,12 @@ source $ZSH/oh-my-zsh.sh
 export PATH=$PATH:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
 
 # My Aliases
-alias fast="ssh fast"
-alias home="ssh home"
-alias unix4="ssh unix4"
-alias vogon="ssh vogon"
-alias webhost="ftp -p chrisopperwall.com"
+alias h='cd ~/Code'
+alias ta='tmux attach'
+alias td='tmux detach'
+
+# My Path
+export PATH=$PATH:/home/copperwa/bin
 
 # The Law for the Wolves
 
