@@ -1,0 +1,8 @@
+[alias]
+	st = status
+	ap = add -p
+[push]
+	default = simple
+[user]
+	email = chriso@ifixit.com
+	name = Chris Opperwall
