@@ -6,3 +6,7 @@
 [user]
 	email = chriso@ifixit.com
 	name = Chris Opperwall
+[core]
+   editor = vim
+[merge]
+   tool = vimdiff

@@ -13,4 +13,6 @@ cp -v vim/.vimrc $HOME
 
 cp -r vim/.vim $HOME
 
+cp -v .gitconfig $HOME
+
 echo "..done!"
