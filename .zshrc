@@ -28,3 +28,5 @@ alias td='tmux detach'
 alias h='cd ~/Code'
 
 alias sl='ls'
+
+cd () { builtin cd $1 && ls; }
